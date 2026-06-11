@@ -1,11 +1,21 @@
-# KAMACHIX DASHBOARD PARA LA VISUALIZACION DE INDICADORES ACADEMICOS DE LA UNIVERSIDAD DE NARIÑO
+# KAMACHIX DASHBOARD PARA LA VISUALIZACIÓN DE INDICADORES ACADÉMICOS DE LA UNIVERSIDAD DE NARIÑO
 
 ## Credits
 
-Original academic project developed collaboratively by a multidisciplinary team as part of a university research project.
+This project was originally developed as an academic research project at the University of Nariño.
 
-This repository contains a maintained copy of the original work for documentation, portfolio and educational purposes.
+### Contributors
+
+* Lucio Stephen Molina Martinez
+* Juan Gabriel Bastidas Delgado
+* Oscar Algemiro Erazo Carlosama
+
+### Repository Information
+
+This repository contains a maintained copy of the original project for portfolio, documentation and educational purposes.
 
 Original repository:
-https://github.com/1stephenmm/Kamachix_reloaded.git
 
+https://github.com/1stephenmm/Kamachix_reloaded
+
+Current repository maintained by Stephen Molina Martinez.
