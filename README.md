@@ -27,6 +27,20 @@ Based on the preserved source code and project assets, the system includes indic
 
 The platform was deployed within the University of Nariño infrastructure and remained in active institutional use for at least one year during the project lifecycle.
 
+## Screenshots
+
+### Main Dashboard
+
+![Main Dashboard](docs/images/dashboard-main.png)
+
+### Academic Indicators
+
+![Academic Indicators](docs/images/academic-indicators.png)
+
+### Reporting and Monitoring
+
+![Reporting and Monitoring](docs/images/reporting-monitoring.png)
+
 ---
 
 ## Impact
@@ -249,24 +263,21 @@ Before any redeployment, all credentials, secrets, and environment-specific sett
 The repository preserves historical project assets, including:
 
 * User manuals.
-* Demonstration and training videos.
+* Demonstration and training video (available in the KAMACHIX Historical Assets release).
 * CSV upload templates.
 * Database snapshots.
 
----
+## Historical Assets
 
-## Preserved Assets
+Historical demonstration materials are available through the repository Releases section.
 
-The repository includes historical project artifacts that provide evidence of real-world institutional deployment and operational use.
+Contents include:
 
-Preserved assets include:
-
+* Demonstration video.
 * User manual.
-* Demonstration and training video.
-* CSV import templates.
-* Database snapshots and SQL dumps.
+* Supporting historical documentation.
 
-These materials were used during the operational lifecycle of the platform and have been preserved for documentation, educational, and historical purposes.
+These assets have been preserved to document the project's operational use, institutional context and historical significance.
 
 ---
 
@@ -302,6 +313,8 @@ Original project developed collaboratively by Systems Engineering students from 
 - Juan Gabriel Bastidas Delgado
 - Oscar Algemiro Erazo Carlosama
 
+Roles and responsibilities varied throughout the project lifecycle and included software development, database design, analytics implementation, testing and documentation.
+
 ---
 
 ## Repository Maintenance
@@ -312,7 +325,6 @@ This repository is currently maintained by Lucio Stephen Molina Martínez for:
 - Technical documentation.
 - Historical preservation.
 - Modernization planning.
-- Professional portfolio development.
 
 The original source code, documentation, database artifacts, and demonstration materials have been preserved to document the project's historical and institutional impact.
 
