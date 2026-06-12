@@ -39,7 +39,9 @@ The platform replaced fragmented reporting workflows and provided a centralized 
 
 ## Business Context
 
-Universities frequently manage academic indicators through spreadsheets, departmental reports, and disconnected data sources.
+KAMACHIX was developed to support the management, monitoring, and visualization of academic quality indicators used in institutional self-assessment, accreditation, and continuous improvement processes.
+
+The platform was associated with initiatives related to the Division of Self-Assessment, Accreditation and Certification (División de Autoevaluación, Acreditación y Certificación) of the University of Nariño, supporting data-driven monitoring of academic and institutional performance indicators.
 
 KAMACHIX was developed to provide a centralized platform where institutional stakeholders could:
 
@@ -272,9 +274,11 @@ These materials were used during the operational lifecycle of the platform and h
 
 KAMACHIX was deployed within the University of Nariño infrastructure and operated in a real institutional environment.
 
-Although the original deployment is no longer available, the source code, database artifacts, user documentation, and demonstration materials have been preserved.
+The platform supported the visualization and monitoring of academic quality indicators used in self-assessment, accreditation, and institutional improvement processes.
 
-This repository serves as a historical record of the project and as a portfolio artifact documenting the system's design, implementation, and institutional use.
+Although the original deployment is no longer available, the source code, database artifacts, user documentation, demonstration materials, and project evidence have been preserved.
+
+This repository serves as a historical record of the project and as a portfolio artifact documenting its design, implementation, and institutional use.
 
 ---
 
@@ -286,25 +290,36 @@ Original project developed collaboratively by Systems Engineering students from 
 - Juan Gabriel Bastidas Delgado
 - Oscar Algemiro Erazo Carlosama
 
+---
+
 ## Repository Maintenance
 
-This repository is currently maintained by Lucio Stephen Molina Martínez for portfolio, documentation, educational, and historical preservation purposes.
+This repository is currently maintained by Lucio Stephen Molina Martínez for:
 
-Current maintenance activities include:
+- Portfolio presentation.
+- Technical documentation.
+- Historical preservation.
+- Modernization planning.
+- Professional portfolio development.
 
-- Repository preservation.
-- Documentation improvements.
-- Historical project recovery.
-- Portfolio preparation.
-- Technical analysis and modernization planning.
+The original source code, documentation, database artifacts, and demonstration materials have been preserved to document the project's historical and institutional impact.
 
 ---
 
 ## Credits
 
-This project originated within a university research initiative at the University of Nariño and was developed under academic supervision as part of a software engineering and research effort.
+This project originated within the GRIAS Research Group of the Systems Department at the University of Nariño and was developed under the academic supervision of Ricardo Timarán Pereira, PhD.
 
-The platform was subsequently deployed within the University of Nariño infrastructure and used as an institutional dashboard supporting academic quality and accreditation-related processes.
+The project was conceived as a software engineering and research initiative focused on the intelligent visualization of academic key performance indicators (KPIs) and institutional quality metrics.
+
+The platform was subsequently deployed within the University of Nariño infrastructure and supported activities related to academic quality monitoring, self-assessment, accreditation, and continuous improvement processes associated with the Division of Autoevaluación, Acreditación y Certificación.
+
+## Institutional Context
+
+- Research Group: GRIAS – Grupo de Investigación Aplicada en Sistemas
+- Academic Supervisor: Ricardo Timarán Pereira, PhD
+- Institution: University of Nariño
+- Administrative Unit: División de Autoevaluación, Acreditación y Certificación (Division of Self-Assessment, Accreditation and Certification)
 
 ---
 
