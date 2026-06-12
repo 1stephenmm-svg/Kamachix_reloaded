@@ -282,6 +282,18 @@ This repository serves as a historical record of the project and as a portfolio 
 
 ---
 
+## Project Provenance
+
+This repository is a maintained and documented copy of the original KAMACHIX project.
+
+The original collaborative repository remains available at:
+
+[Original KAMACHIX Repository](https://github.com/1stephenmm/Kamachix_reloaded)
+
+The current repository focuses on historical preservation, portfolio presentation, documentation improvements, and future modernization planning while preserving attribution to the original contributors.
+
+---
+
 ## Contributors
 
 Original project developed collaboratively by Systems Engineering students from the University of Nariño:
