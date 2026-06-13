@@ -345,6 +345,14 @@ The platform was subsequently deployed within the University of Nariño infrastr
 - Institution: University of Nariño
 - Administrative Unit: División de Autoevaluación, Acreditación y Certificación (Division of Self-Assessment, Accreditation and Certification)
 
+## Academic Dissemination
+
+KAMACHIX was presented at academic events as part of its dissemination and research activities.
+
+The project was presented by Lucio Stephen Molina Martínez at an academic event held in Ambato, Ecuador, where its architecture, objectives and institutional impact were shared with the academic community.
+
+Supporting materials, when available, are preserved as part of the project's historical record.
+
 ---
 
 ## Future Modernization Opportunities
