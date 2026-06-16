@@ -289,7 +289,7 @@ The platform supported the visualization and monitoring of academic quality indi
 
 Although the original deployment is no longer available, the source code, database artifacts, user documentation, demonstration materials, and project evidence have been preserved.
 
-This repository serves as a historical record of the project and as a portfolio artifact documenting its design, implementation, and institutional use.
+The project also contributed to academic research, conference dissemination activities, undergraduate thesis work and institutional quality-management processes within the University of Nariño.
 
 ---
 
@@ -345,13 +345,32 @@ The platform was subsequently deployed within the University of Nariño infrastr
 - Institution: University of Nariño
 - Administrative Unit: División de Autoevaluación, Acreditación y Certificación (Division of Self-Assessment, Accreditation and Certification)
 
-## Academic Dissemination
+## Academic Dissemination, Publications and Conferences
 
-KAMACHIX was presented at academic events as part of its dissemination and research activities.
+KAMACHIX was developed as part of an undergraduate research and software engineering initiative at the University of Nariño.
 
-The project was presented by Lucio Stephen Molina Martínez at an academic event held in Ambato, Ecuador, where its architecture, objectives and institutional impact were shared with the academic community.
+The project was documented through the undergraduate thesis associated with its development and was disseminated through academic and engineering research events in Colombia and Ecuador.
 
-Supporting materials, when available, are preserved as part of the project's historical record.
+### Thesis
+
+The project originated from the undergraduate thesis:
+
+*Construcción de una herramienta Dashboard para la visualización inteligente de datos de indicadores claves de gestión académica en la Universidad de Nariño*.
+
+The thesis is publicly available through the University of Nariño Institutional Digital Repository (SIRED):
+
+[View Thesis in SIRED](https://sired.udenar.edu.co/8134/)
+
+### Academic Outputs
+
+Associated academic outputs include:
+
+- Undergraduate Thesis: *Construcción de una herramienta Dashboard para la visualización inteligente de datos de indicadores claves de gestión académica en la Universidad de Nariño*.
+- Conference Paper: *KAMACHIX: un dashboard para la visualización inteligente de datos de indicadores claves de gestión académica en la Universidad de Nariño*, accepted for presentation at the III International Engineering Congress "Retos de la investigación y la integración Latinoamericana".
+
+The project was also presented by Lucio Stephen Molina Martínez at the IV International Scientific Congress UNIANDES held in Ambato, Ecuador.
+
+Research and dissemination activities focused on academic analytics, KPI visualization and institutional decision-support systems.
 
 ---
 
