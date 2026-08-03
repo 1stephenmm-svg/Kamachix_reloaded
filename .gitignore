@@ -1,0 +1,15 @@
+# Certificados y claves privadas
+*.key
+*.crt
+*.csr
+*.pem
+
+# Variables de entorno
+.env
+.env.*
+
+# Dependencias Node
+node_modules/
+
+# Logs
+*.log
