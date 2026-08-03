@@ -16,3 +16,4 @@ node_modules/
 
 # Configuración sensible
 config/emailconfig.js
+config/dbConfig.js
